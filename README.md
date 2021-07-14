@@ -1,4 +1,4 @@
-### eventful
+# eventful
 A Spotfiy web app meant to find important world events near the release of your favorite albums
 
 
@@ -8,7 +8,7 @@ A Spotfiy web app meant to find important world events near the release of your 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-# prerequisites
+### prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
